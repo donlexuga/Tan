@@ -1,0 +1,9 @@
+def word_search():
+    grid = [
+        ['c', 'a', 't', 's'],
+        ['r', 'a', 't', 's'],
+        ['b', 'a', 'l', 'l'],
+        ['t', 'r', 'e', 'e']
+    ]
+    # 2
+    pass
