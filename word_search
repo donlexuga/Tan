@@ -1,4 +1,4 @@
-def word_search() 
+def word_search() 1
     grid = [
         ['c', 'a', 't', 's'],
         ['r', 'a', 't', 's'],
